@@ -2,6 +2,7 @@
 app/bootstrap*
 
 # Symfony directories
+nbproject/*
 vendor/*
 */logs/*
 */cache/*

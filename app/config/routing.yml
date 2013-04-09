@@ -1,0 +1,5 @@
+quockhai_quockhai:
+    resource: "@QuockhaiQuockhaiBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
